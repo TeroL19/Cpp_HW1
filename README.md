@@ -1,1 +1,1 @@
-# ConsoleApplication1
+ДЗ номер 1
